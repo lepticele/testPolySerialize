@@ -1,0 +1,17 @@
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\bin\Debug\net6.0\PolymorphicSerialize.exe
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\bin\Debug\net6.0\PolymorphicSerialize.deps.json
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\bin\Debug\net6.0\PolymorphicSerialize.runtimeconfig.json
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\bin\Debug\net6.0\PolymorphicSerialize.dll
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\bin\Debug\net6.0\PolymorphicSerialize.pdb
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.csproj.AssemblyReference.cache
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.AssemblyInfoInputs.cache
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.AssemblyInfo.cs
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.csproj.CoreCompileInputs.cache
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.dll
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\refint\PolymorphicSerialize.dll
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.pdb
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.genruntimeconfig.cache
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\ref\PolymorphicSerialize.dll
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+Y:\Projects\LaboratorySerialize\PolymorphicSerialize\PolymorphicSerialize\obj\Debug\net6.0\PolymorphicSerialize.csproj.CopyComplete
