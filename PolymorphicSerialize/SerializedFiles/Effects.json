@@ -1,1 +1,47 @@
-[{"$type":"PolymorphicSerialize.Weapon, PolymorphicSerialize","Effects":[{"$type":"PolymorphicSerialize.EffectFire, PolymorphicSerialize","flameNumber":4}]},{"$type":"PolymorphicSerialize.Weapon, PolymorphicSerialize","Effects":[{"$type":"PolymorphicSerialize.EffectFreeze, PolymorphicSerialize","waterDrops":[2.0,3.0,4.0]}]}]
+[
+    {
+        "$type": "PolymorphicSerialize.Weapon, PolymorphicSerialize",
+        "Effects":
+        [
+            {
+                "$type": "PolymorphicSerialize.EffectFire, PolymorphicSerialize",
+                "flameNumber": 4
+            }
+        ]
+    },
+    {
+        "$type": "PolymorphicSerialize.Weapon, PolymorphicSerialize",
+        "Effects":
+        [
+            {
+                "$type": "PolymorphicSerialize.EffectFreeze, PolymorphicSerialize",
+                "waterDrops":
+                [
+                    2.0,
+                    3.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "$type": "PolymorphicSerialize.Weapon, PolymorphicSerialize",
+        "Effects":
+        [
+            {
+                "$type": "PolymorphicSerialize.Poison, PolymorphicSerialize",
+                "damageAmout":4
+            }
+        ]
+    },
+        {
+        "$type": "PolymorphicSerialize.Weapon, PolymorphicSerialize",
+        "Effects":
+        [
+            {
+                "$type": "PolymorphicSerialize.Jean, PolymorphicSerialize",
+                "damageAmout":4
+            }
+        ]
+    },
+]

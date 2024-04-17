@@ -88,6 +88,7 @@ class Test
                 effect.ApplyEffect();
             }
         }
+
         using StreamWriter file = File.CreateText(EffectPath + FileName);
         string fileContent = JsonConvert.SerializeObject(weapons, jsonSerializerSettings);
         file.Write(fileContent);
@@ -108,7 +109,10 @@ class Test
         {
             foreach (Weapon weapon in weapons)
             {
-                Debug.WriteLine(weapon);
+                foreach (Effect effect in weapon.Effects)
+                {
+                    effect.ApplyEffect();
+                }
             }
         }
     }
